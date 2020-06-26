@@ -1,0 +1,19 @@
+div{
+    width: 500px;
+    margin: 50px auto;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+#senha, #matricula{
+    width: 95%;
+}
+
+#login{
+    margin: 10px 45%;
+}
+
+p{
+    display: none;
+    color: red;
+}
